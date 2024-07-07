@@ -1,17 +1,1 @@
-  name: " ADARSH SINGH",
-  profile: "/profile.jpg",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ADARSH SINGH....",
-  email: "adarshsinggh1262@gmail.com",
-  phone: "+91 9792051262",
-  address: "Uttar Pradesh, India",
-  github: "https://github.com/adarsh-1262",
-  facebook: "https://www.facebook.com/profile.php?id=100074133035539",
-  linkedIn: "https://www.linkedin.com/in/adarsh-singgh/",
-  twitter: "https://x.com/ADARSHS47422448",
-  stackOverflow: "https://stackoverflow.com/users/21324593/adarsh-singh",
-  leetcode: "https://leetcode.com/u/adarsh_singgh/",
-  devUsername: "adarsh-1262",
-  resume: "https://drive.google.com/file/d/1iM_2Sgb26u3Pdx1y1QyLK6ieOdDL5N1Q/view?usp=sharing",
-
-# portfolio
+ # portfolio
