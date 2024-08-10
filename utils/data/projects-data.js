@@ -24,16 +24,6 @@ export const projectsData = [
         demo: '',
         image: realEstate,
     },
-    {
-        id: 3,
-        name: 'Text-to-Speech Converter',
-        description: 'I have developed this simple project using HTML, CSS and JavaScript. Used the functionality of the javascript and made this project working. ',
-        tools: ['HTML', 'CSS', 'Javascript'],
-        code: '',
-        role: 'Frontend Developer',
-        demo: '',
-        image: travel,
-    },
 ];
 
 
