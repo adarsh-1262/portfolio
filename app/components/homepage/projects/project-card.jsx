@@ -1,5 +1,6 @@
 // @flow strict
 
+import Image from 'next/image';
 import * as React from 'react';
 
 function ProjectCard({ project }) {
@@ -20,7 +21,14 @@ function ProjectCard({ project }) {
         </p>
       </div>
       {project.image && (
-        <img src={project.image} alt={project.name} className="w-full h-48 object-cover rounded-t-md" />
+        <Image 
+          src={project.image} 
+          alt={project.name} 
+          width={800}
+          height={400}
+          className="w-full h-48 object-cover rounded-t-md"
+          priority={true}
+        />
       )}
       <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-8">
         <code className="font-mono text-xs md:text-sm lg:text-base">

@@ -1,10 +1,15 @@
-const path = require('path')
- 
-module.exports = {
-  sassOptions: {
-    includePaths: [path.join(__dirname, 'styles')],
-  },
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   images: {
-    domains: ['res.cloudinary.com', 'media.dev.to']
-  }
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'opengraph.githubassets.com',
+        port: '',
+        pathname: '/**',
+      },
+    ],
+  },
 }
+
+module.exports = nextConfig
