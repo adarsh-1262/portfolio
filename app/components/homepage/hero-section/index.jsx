@@ -114,6 +114,8 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
+                <span className="text-amber-300">Next Js</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">React</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Javascript</span>
@@ -126,11 +128,15 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Postgres</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Node JS</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Problem Solving</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Strapi</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">GCP</span>
                 <span className="text-gray-400">{"'],"}</span>

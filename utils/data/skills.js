@@ -17,7 +17,13 @@ export const skillsData = [
   'Figma',
   'Firebase',
   'MaterialUI',
-  'C++'
+  'C++',
+  'Strapi',
+  'Python',
+  'Graphql',
+  'Figma',
+  'Docker',
+  'Markdown',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

@@ -1,8 +1,8 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2021 - Present",
+    title: "Bachelor's Degree",
+    duration: "2021 - 2025",
     institution: "RAJKIYA ENGINEERING COLLEGE SONBHADRA",
   },
   {

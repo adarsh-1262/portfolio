@@ -65,6 +65,9 @@ function Experience() {
                           <p className="text-sm sm:text-base">
                             {experience.company}
                           </p>
+                          <p className="text-xs sm:text-sm text-gray-400 mt-1">
+                            {experience.description}
+                          </p>
                         </div>
                       </div>
                     </div>
